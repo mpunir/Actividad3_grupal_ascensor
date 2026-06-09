@@ -31,5 +31,4 @@ Este repositorio contiene el proyecto desarrollado en Wokwi para el perfeccionam
 
 Enlace al proyecto:
 https://wokwi.com/projects/465554258645292033
-[libraries.txt](https://github.com/user-attachments/files/28762940/libraries.txt)
-[diagram.json](https://github.com/user-attachments/files/28762937/diagram.json)
+
